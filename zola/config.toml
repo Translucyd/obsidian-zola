@@ -3,7 +3,7 @@ title = "___SITE_TITLE___"
 
 build_search_index = true
 compile_sass = true
-default_language = "en"
+default_language = "pt"
 generate_feed = true
 minify_html = true
 render_emoji = true
@@ -26,7 +26,7 @@ is_netlify = true
 page_graph = "___PAGE_GRAPH___"
 title_addition = "___SITE_TITLE_TAB___"
 
-language_code = "en-US"
+language_code = "pt-BR"
 theme_color = "#fff"
 
 ganalytics = "___GANALYTICS___"
