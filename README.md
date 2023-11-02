@@ -1,6 +1,3 @@
-
-Live: [https://swe.auspham.dev/](https://swe.auspham.dev/)
-
 # This fork has
 
 1. Nested preview
